@@ -1,10 +1,10 @@
 h1{
-    color: brown;
+    color: red
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif  ;
 }
 li{
-    color: crimson;
-    line-height: 50px;
+    color: red
+    line-height: 30px
 }
 h2{
     color: darkgoldenrod;
@@ -14,7 +14,7 @@ p{
     color: chocolate;
 }
 .font{
-    letter-spacing: 4px;
+    letter-spacing: 5px;
 }
 .text{
     font-size: 17px;
@@ -34,5 +34,5 @@ section2{
 }
 a{
     text-decoration: none;
-    background-color: darkgoldenrod;
+    background-color: gold
 }
